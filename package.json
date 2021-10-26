@@ -1,0 +1,14 @@
+{
+  "name": "cypress_jenkins",
+  "version": "1.0.0",
+  "description": "Prueba Jenkins - Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
