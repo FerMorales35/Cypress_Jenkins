@@ -1,1 +1,8 @@
-{}
+{
+  "viewportWidth": 1500,
+  "viewportHeight": 1000,
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 15000,
+  "pageLoadTimeout": 9000,
+  "projectId": "wiuaj6"
+}
